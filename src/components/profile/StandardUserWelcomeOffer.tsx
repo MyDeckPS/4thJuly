@@ -1,0 +1,1 @@
+// This file is now obsolete. Remove all logic and usages of StandardUserWelcomeOffer from the codebase.
